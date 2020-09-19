@@ -51,11 +51,11 @@ THEN the saved events persist
 ## Project description
 
 ![JavaScript code quiz](workday-scheduler.jpeg)
-
+This workday scheduler allows user to save the daily schedule. Also, base on the current time, each timeblock is color coded to indicate whether it is in the past(shows grey color), present(shows red color), future(shows green color). 
 
 ## Creators
 
 Project created by: Venus Hu 
 
 Github: 
-https://github.com/Venus1001/Code-Quiz-.git
+https://github.com/Venus1001/Work-Day-Scheduler.git
